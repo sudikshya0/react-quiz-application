@@ -13,3 +13,5 @@
 - selectAnswer: allows user to go to next page if any one of the answer is selected.
 
 ### WireFrames
+![quizpage-Page-1 drawio](https://user-images.githubusercontent.com/108611184/209844817-e2a16930-2d11-4166-8658-3e70bd1779ec.png)
+![quizpage-Page-2 drawio](https://user-images.githubusercontent.com/108611184/209844842-15e51118-2971-4980-8085-1ad248bee511.png)
